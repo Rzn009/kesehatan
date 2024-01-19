@@ -1,0 +1,17 @@
+@import url('https://fonts.cdnfonts.com/css/hatficeld');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.text-header
+{
+    font-family: 'Hatficeld', sans-serif;
+}
+#text-1
+{
+    font-family: 'Noto Sans New Tai Lue', sans-serif;
+}
